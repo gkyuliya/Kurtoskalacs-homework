@@ -1,0 +1,26 @@
+body {
+  font-family: "Courier New", Courier, monospace;
+  background-color: #f3e9c1;
+}
+
+h1,
+h2,
+.navigation-links {
+  text-align: center;
+}
+
+h2 {
+  font-size: 17px;
+}
+
+.div-icon {
+  text-align: center;
+}
+
+.icon {
+  width: 110px;
+}
+
+.image-kurtoskalacs {
+  text-align: center;
+}
